@@ -6,14 +6,14 @@
 
 
 
-package pbo1.pkg10119013.latihan1.biodata;
+package if1.pkg10119013.latihan1.biodata;
 
 /**
  * 
  * @author Fiona Avila
  */
 
-public class PBO110119013Latihan1Biodata {
+public class if110119013Latihan1Biodata {
 
    public static void main(String[] args) {
         System.out.println("BIODATA ROCKSTAR" + "\n" + "---------------");
